@@ -30,7 +30,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/50.JPG</picture><picture>/uploads/catalogue/products/additional/50_2_thumb.JPG</picture><picture>/uploads/catalogue/products/additional/50_1_thumb.jpg</picture></offer><offer id="351" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/50.JPG</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/50_2_thumb.JPG</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/50_1_thumb.jpg</picture></offer><offer id="351" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-06045</url>
         <price>8</price>
         <currencyId>USD</currencyId>
@@ -48,7 +48,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/69.jpg</picture><picture>/uploads/catalogue/products/additional/67_1_thumb.jpg</picture></offer><offer id="352" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/69.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/67_1_thumb.jpg</picture></offer><offer id="352" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-07045</url>
         <price>15</price>
         <currencyId>USD</currencyId>
@@ -65,7 +65,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/70.jpg</picture><picture>/uploads/catalogue/products/additional/68_1_thumb.jpg</picture></offer><offer id="353" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/70.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/68_1_thumb.jpg</picture></offer><offer id="353" available="true">
         <url>https://techno-odis.com/catalogue/product/bordiur-fb-001</url>
         <price>15</price>
         <currencyId>USD</currencyId>
@@ -82,7 +82,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/49.JPG</picture><picture>/uploads/catalogue/products/additional/49_1_thumb.JPG</picture></offer><offer id="354" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/49.JPG</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/49_1_thumb.JPG</picture></offer><offer id="354" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-04045</url>
         <price>5</price>
         <currencyId>USD</currencyId>
@@ -99,7 +99,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/68.jpg</picture><picture>/uploads/catalogue/products/additional/66_1_thumb.jpg</picture></offer><offer id="355" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/68.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/66_1_thumb.jpg</picture></offer><offer id="355" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-7045</url>
         <price>17,44</price>
         <currencyId>USD</currencyId>
@@ -116,7 +116,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/64.png</picture><picture>/uploads/catalogue/products/additional/62_1_thumb.png</picture></offer><offer id="356" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/64.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/62_1_thumb.png</picture></offer><offer id="356" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-4045</url>
         <price>8,11</price>
         <currencyId>USD</currencyId>
@@ -133,7 +133,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/58.png</picture><picture>/uploads/catalogue/products/additional/56_1_thumb.png</picture></offer><offer id="357" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/58.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/56_1_thumb.png</picture></offer><offer id="357" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-02045</url>
         <price>8,57</price>
         <currencyId>USD</currencyId>
@@ -151,7 +151,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/67.jpg</picture><picture>/uploads/catalogue/products/additional/65_1_thumb.jpg</picture></offer><offer id="358" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/67.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/65_1_thumb.jpg</picture></offer><offer id="358" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-5045</url>
         <price>8,57</price>
         <currencyId>USD</currencyId>
@@ -168,7 +168,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/62.jpg</picture><picture>/uploads/catalogue/products/additional/60_1_thumb.png</picture></offer><offer id="359" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/62.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/60_1_thumb.png</picture></offer><offer id="359" available="true">
         <url>https://techno-odis.com/catalogue/product/antichnyi-kamen-ft-6045</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -185,7 +185,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/63.jpg</picture><picture>/uploads/catalogue/products/additional/61_1_thumb.png</picture></offer><offer id="360" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/63.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/61_1_thumb.png</picture></offer><offer id="360" available="true">
         <url>https://techno-odis.com/catalogue/product/ft-022d</url>
         <price>12,5</price>
         <currencyId>USD</currencyId>
@@ -203,7 +203,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/65.jpg</picture><picture>/uploads/catalogue/products/additional/63_1_thumb.jpg</picture></offer><offer id="361" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/65.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/63_1_thumb.jpg</picture></offer><offer id="361" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-008</url>
         <price>30</price>
         <currencyId>USD</currencyId>
@@ -221,7 +221,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/52.JPG</picture><picture>/uploads/catalogue/products/additional/51_1_thumb.JPG</picture></offer><offer id="362" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/52.JPG</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/51_1_thumb.JPG</picture></offer><offer id="362" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-007</url>
         <price>12,4</price>
         <currencyId>USD</currencyId>
@@ -238,7 +238,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/42.jpg</picture><picture>/uploads/catalogue/products/additional/42_1_thumb.jpg</picture></offer><offer id="363" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/42.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/42_1_thumb.jpg</picture></offer><offer id="363" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-009</url>
         <price>12,2</price>
         <currencyId>USD</currencyId>
@@ -256,7 +256,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/55.png</picture><picture>/uploads/catalogue/products/additional/53_1_thumb.png</picture></offer><offer id="364" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/55.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/53_1_thumb.png</picture></offer><offer id="364" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-gorod-ft-011</url>
         <price>6,49</price>
         <currencyId>USD</currencyId>
@@ -272,7 +272,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/1.jpg</picture><picture>/uploads/catalogue/products/additional/1_1_thumb.jpg</picture></offer><offer id="365" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/1.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/1_1_thumb.jpg</picture></offer><offer id="365" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-gorod-ft-003</url>
         <price>5,83</price>
         <currencyId>USD</currencyId>
@@ -288,7 +288,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/2.jpg</picture><picture>/uploads/catalogue/products/additional/2_1_thumb.jpg</picture></offer><offer id="366" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/2.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/2_1_thumb.jpg</picture></offer><offer id="366" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-gorod-ft-009</url>
         <price>5,83</price>
         <currencyId>USD</currencyId>
@@ -304,7 +304,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/3.jpg</picture><picture>/uploads/catalogue/products/additional/3_1_thumb.jpg</picture></offer><offer id="367" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/3.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/3_1_thumb.jpg</picture></offer><offer id="367" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-gorod-ft-013</url>
         <price>5,83</price>
         <currencyId>USD</currencyId>
@@ -320,7 +320,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/4.jpg</picture><picture>/uploads/catalogue/products/additional/4_1_thumb.jpg</picture></offer><offer id="368" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/4.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/4_1_thumb.jpg</picture></offer><offer id="368" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-gorod-ft-018</url>
         <price>5</price>
         <currencyId>USD</currencyId>
@@ -336,7 +336,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/5.jpg</picture><picture>/uploads/catalogue/products/additional/5_1_thumb.jpg</picture></offer><offer id="369" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/5.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/5_1_thumb.jpg</picture></offer><offer id="369" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-gorod-ft-005</url>
         <price>3,17</price>
         <currencyId>USD</currencyId>
@@ -352,7 +352,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/6.jpg</picture><picture>/uploads/catalogue/products/additional/6_1_thumb.jpg</picture></offer><offer id="370" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/6.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/6_1_thumb.jpg</picture></offer><offer id="370" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-001</url>
         <price>6,94</price>
         <currencyId>USD</currencyId>
@@ -368,7 +368,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/7.jpg</picture><picture>/uploads/catalogue/products/additional/7_1_thumb.jpg</picture></offer><offer id="371" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/7.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/7_1_thumb.jpg</picture></offer><offer id="371" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-0181</url>
         <price>6,94</price>
         <currencyId>USD</currencyId>
@@ -384,7 +384,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/8.jpg</picture><picture>/uploads/catalogue/products/additional/8_1_thumb.jpg</picture></offer><offer id="372" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/8.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/8_1_thumb.jpg</picture></offer><offer id="372" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-008</url>
         <price>6,94</price>
         <currencyId>USD</currencyId>
@@ -400,7 +400,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/9.jpg</picture><picture>/uploads/catalogue/products/additional/9_1_thumb.jpg</picture></offer><offer id="373" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/9.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/9_1_thumb.jpg</picture></offer><offer id="373" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-004</url>
         <price>5</price>
         <currencyId>USD</currencyId>
@@ -416,7 +416,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/10.jpg</picture><picture>/uploads/catalogue/products/additional/10_1_thumb.jpg</picture></offer><offer id="374" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/10.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/10_1_thumb.jpg</picture></offer><offer id="374" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-019</url>
         <price>5,22</price>
         <currencyId>USD</currencyId>
@@ -432,7 +432,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/11.JPG</picture><picture>/uploads/catalogue/products/additional/11_1_thumb.jpg</picture></offer><offer id="375" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/11.JPG</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/11_1_thumb.jpg</picture></offer><offer id="375" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-012</url>
         <price>5,22</price>
         <currencyId>USD</currencyId>
@@ -448,7 +448,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/12.jpg</picture><picture>/uploads/catalogue/products/additional/12_1_thumb.jpg</picture></offer><offer id="376" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/12.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/12_1_thumb.jpg</picture></offer><offer id="376" available="true">
         <url>https://techno-odis.com/catalogue/product/bazalt-ft-088</url>
         <price>10</price>
         <currencyId>USD</currencyId>
@@ -464,7 +464,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/13.jpg</picture><picture>/uploads/catalogue/products/additional/13_1_thumb.jpg</picture></offer><offer id="377" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/13.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/13_1_thumb.jpg</picture></offer><offer id="377" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-006</url>
         <price>10,42</price>
         <currencyId>USD</currencyId>
@@ -481,7 +481,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/41.jpg</picture><picture>/uploads/catalogue/products/additional/41_1_thumb.jpg</picture></offer><offer id="378" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/41.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/41_1_thumb.jpg</picture></offer><offer id="378" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-arbat-ft-015</url>
         <price>6,67</price>
         <currencyId>USD</currencyId>
@@ -497,7 +497,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/14.png</picture><picture>/uploads/catalogue/products/additional/14_1_thumb.jpg</picture></offer><offer id="379" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/14.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/14_1_thumb.jpg</picture></offer><offer id="379" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-arbat-ft-016</url>
         <price>6,67</price>
         <currencyId>USD</currencyId>
@@ -513,7 +513,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/15.jpg</picture><picture>/uploads/catalogue/products/additional/15_1_thumb.jpg</picture></offer><offer id="380" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/15.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/15_1_thumb.jpg</picture></offer><offer id="380" available="true">
         <url>https://techno-odis.com/catalogue/product/staryi-arbat-ft-017</url>
         <price>6,67</price>
         <currencyId>USD</currencyId>
@@ -529,7 +529,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/16.jpg</picture><picture>/uploads/catalogue/products/additional/16_1_thumb.jpg</picture></offer><offer id="381" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/16.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/16_1_thumb.jpg</picture></offer><offer id="381" available="true">
         <url>https://techno-odis.com/catalogue/product/landshaftnaia-ft-010</url>
         <price>4,85</price>
         <currencyId>USD</currencyId>
@@ -545,7 +545,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/17.jpg</picture><picture>/uploads/catalogue/products/additional/17_1_thumb.jpg</picture></offer><offer id="382" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/17.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/17_1_thumb.jpg</picture></offer><offer id="382" available="true">
         <url>https://techno-odis.com/catalogue/product/manezh-ft-002</url>
         <price>9,45</price>
         <currencyId>USD</currencyId>
@@ -562,7 +562,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/18.jpg</picture><picture>/uploads/catalogue/products/additional/18_1_thumb.jpg</picture></offer><offer id="383" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/18.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/18_1_thumb.jpg</picture></offer><offer id="383" available="true">
         <url>https://techno-odis.com/catalogue/product/ft-023d</url>
         <price>12,5</price>
         <currencyId>USD</currencyId>
@@ -580,7 +580,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/66.jpg</picture><picture>/uploads/catalogue/products/additional/64_1_thumb.jpg</picture></offer><offer id="384" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/66.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/64_1_thumb.jpg</picture></offer><offer id="384" available="true">
         <url>https://techno-odis.com/catalogue/product/parket-taverna-ft-020</url>
         <price>6,94</price>
         <currencyId>USD</currencyId>
@@ -597,7 +597,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/19.jpg</picture><picture>/uploads/catalogue/products/additional/19_1_thumb.jpg</picture></offer><offer id="385" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/19.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/19_1_thumb.jpg</picture></offer><offer id="385" available="true">
         <url>https://techno-odis.com/catalogue/product/parket-taverna-ft-021</url>
         <price>6,94</price>
         <currencyId>USD</currencyId>
@@ -614,7 +614,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/20.jpg</picture><picture>/uploads/catalogue/products/additional/20_1_thumb.jpg</picture></offer><offer id="386" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/20.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/20_1_thumb.jpg</picture></offer><offer id="386" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-007</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -631,7 +631,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/21.jpg</picture><picture>/uploads/catalogue/products/additional/21_1_thumb.jpg</picture></offer><offer id="387" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/21.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/21_1_thumb.jpg</picture></offer><offer id="387" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-014</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -648,7 +648,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/22.jpg</picture><picture>/uploads/catalogue/products/additional/22_1_thumb.jpg</picture></offer><offer id="388" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/22.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/22_1_thumb.jpg</picture></offer><offer id="388" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-022</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -665,7 +665,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/23.jpg</picture><picture>/uploads/catalogue/products/additional/23_1_thumb.jpg</picture></offer><offer id="389" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/23.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/23_1_thumb.jpg</picture></offer><offer id="389" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-023</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -682,7 +682,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/24.jpg</picture><picture>/uploads/catalogue/products/additional/24_1_thumb.jpg</picture></offer><offer id="390" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/24.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/24_1_thumb.jpg</picture></offer><offer id="390" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-024</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -699,7 +699,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/25.JPG</picture><picture>/uploads/catalogue/products/additional/25_1_thumb.jpg</picture></offer><offer id="391" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/25.JPG</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/25_1_thumb.jpg</picture></offer><offer id="391" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-301</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -750,7 +750,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/28.jpg</picture><picture>/uploads/catalogue/products/additional/28_1_thumb.jpg</picture></offer><offer id="394" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/28.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/28_1_thumb.jpg</picture></offer><offer id="394" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-304</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -767,7 +767,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/29.jpg</picture><picture>/uploads/catalogue/products/additional/29_1_thumb.jpg</picture></offer><offer id="395" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/29.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/29_1_thumb.jpg</picture></offer><offer id="395" available="true">
         <url>https://techno-odis.com/catalogue/product/300h300-ft-305</url>
         <price>9,09</price>
         <currencyId>USD</currencyId>
@@ -818,7 +818,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/32.jpg</picture><picture>/uploads/catalogue/products/additional/32_1_thumb.jpg</picture></offer><offer id="398" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/32.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/32_1_thumb.jpg</picture></offer><offer id="398" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-010</url>
         <price>11,72</price>
         <currencyId>USD</currencyId>
@@ -835,7 +835,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/56.png</picture><picture>/uploads/catalogue/products/additional/54_1_thumb.png</picture></offer><offer id="399" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/56.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/54_1_thumb.png</picture></offer><offer id="399" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-001</url>
         <price>12,5</price>
         <currencyId>USD</currencyId>
@@ -852,7 +852,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/36.jpg</picture><picture>/uploads/catalogue/products/additional/36_1_thumb.jpg</picture></offer><offer id="400" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/36.jpg</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/36_1_thumb.jpg</picture></offer><offer id="400" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-002</url>
         <price>8,43</price>
         <currencyId>USD</currencyId>
@@ -869,7 +869,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/37.png</picture><picture>/uploads/catalogue/products/additional/37_1_thumb.jpg</picture></offer><offer id="401" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/37.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/37_1_thumb.jpg</picture></offer><offer id="401" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-003</url>
         <price>10,71</price>
         <currencyId>USD</currencyId>
@@ -886,7 +886,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/38.png</picture><picture>/uploads/catalogue/products/additional/38_1_thumb.jpg</picture></offer><offer id="402" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/38.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/38_1_thumb.jpg</picture></offer><offer id="402" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-004</url>
         <price>10,71</price>
         <currencyId>USD</currencyId>
@@ -903,7 +903,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/39.png</picture><picture>/uploads/catalogue/products/additional/39_1_thumb.jpg</picture></offer><offer id="403" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/39.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/39_1_thumb.jpg</picture></offer><offer id="403" available="true">
         <url>https://techno-odis.com/catalogue/product/oblitsovka-dekor-fd-005</url>
         <price>10,71</price>
         <currencyId>USD</currencyId>
@@ -920,7 +920,7 @@
         <country>Украина</country>
         <param name="Матеріал"></param>
         <param name="Бренд">techno-odis</param>
-        <picture>/uploads/catalogue/products/thumb/40.png</picture><picture>/uploads/catalogue/products/additional/40_1_thumb.jpg</picture></offer><offer id="404" available="true">
+        <picture>https://techno-odis.com/uploads/catalogue/products/thumb/40.png</picture><picture>https://techno-odis.com/uploads/catalogue/products/additional/40_1_thumb.jpg</picture></offer><offer id="404" available="true">
         <url>https://techno-odis.com/catalogue/product/320h320-ft-321</url>
         <price>10,31</price>
         <currencyId>USD</currencyId>
